@@ -1,0 +1,17 @@
+{
+  "name": "maszxmodsblockymods",
+  "version": "1.0.0",
+  "description": "BG Private",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+  "Blockman GO",
+  ],
+  "author": "test",
+  "license": "ISC",
+    "dependencies": {
+    "express": "^4.19.2"
+  }
+}
